@@ -1,0 +1,51 @@
+.ex1 {
+    background-color: lightblue;
+    width: 110px;
+    height: 110px;
+    overflow: scroll;
+}
+
+.ex2 {
+    background-color: lightblue;
+    width: 110px;
+    height: 110px;
+    overflow: hidden;
+}
+
+.ex3 
+{
+    width: auto;
+    height: 350px;
+    overflow: auto;
+}
+.ex3:hover {
+     overflow: auto;
+     padding-right: 1px;
+}
+
+.ex4 {
+    background-color: lightblue;
+    width: 110px;
+    height: 110px;
+    overflow: visible;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #ef5861; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #f13742; 
+}
