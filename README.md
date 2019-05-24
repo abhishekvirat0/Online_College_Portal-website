@@ -8,3 +8,5 @@ Xampp server for Mysql
   You'll have to login to access student portal and for teacher's Portal.
   Teacher can only put attendance and student can view there attendance 
   parents can view there students attendance and marks in tests
+# Screenshots
+  
