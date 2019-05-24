@@ -9,4 +9,5 @@ Xampp server for Mysql
   Teacher can only put attendance and student can view there attendance 
   parents can view there students attendance and marks in tests
 # Screenshots
+  
   https://github.com/abhishekvirat0/Online_College_Portal-website/tree/master/Screenshot
